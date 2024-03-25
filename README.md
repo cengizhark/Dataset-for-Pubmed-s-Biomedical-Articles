@@ -1,4 +1,4 @@
-# PubMed-Dominating-Set-Dataset
+# Dataset-for-Pubmed-s-Biomedical-Articles
 Dataset for paper of DominatingSet Algorithm for Text Summarization
 
 fulltext: The original content of biomedical articles from PubMed is included in this file.
