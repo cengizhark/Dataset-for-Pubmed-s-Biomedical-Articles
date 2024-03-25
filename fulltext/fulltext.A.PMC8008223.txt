@@ -1,0 +1,198 @@
+Introduction
+Benign prostatic hyperplasia (BPH) is one of the most commonly diagnosed
+medical conditions in older men. U.S. population-based studies showed an age-related
+increase in prevalence of BPH, which rises to nearly 50% in men by their eighth
+decade of life1. BPH is a chronic
+disease associated with a gradual deterioration of lower urinary tract symptoms
+(LUTS). Pharmacological treatments such as alpha blockers and 5 alpha-reductase
+inhibitors (5ARIs) are commonly used to improve LUTS and prevent serious outcomes
+such as acute urinary retention (AUR). Nevertheless when medical therapy fails,
+invasive interventions become necessary.
+5ARIs are among the most commonly used pharmacological treatments for BPH,
+particularly for patients with larger prostates2,3. They act by
+inhibiting the enzyme 5α-reductase, thus promoting prostatic apoptosis,
+reducing prostate size and improving urinary symptoms. In practice, poor adherence
+to 5ARIs is a well-recognized problem. A study showed 1-yr adherence to 5ARIs for
+BPH was only 29%, and patients on combined therapies had an even higher
+discontinuation rate4. Although
+multiple clinical trials showed 5ARIs could reduce the risk of AUR or the need for
+surgery5–9, the relationship between levels of adherence
+and long-term clinical outcomes has not been determined.
+The aim of this study was to evaluate drug adherence and long-term clinical
+outcomes in patients administered 5ARIs for LUTS related to BPH. We conducted this
+study using population health management claims data, which included statistics on
+health status, health care utilization and costs for patients. Claims data also
+record medication dispenses, which can be a reliable source to evaluate medication
+adherence and indicate medication-refill behavior among patients with chronic
+diseases such as BPH10–12. Furthermore, using direct claims
+data as a measure of medication adherence can eliminate potential recall biasThe aim
+was to evaluate drug adherence and long-term clinical outcomes in patients
+administered 5ARIs therapy for LUTS related to benign prostatic hyperplasia.
+Methods
+Data sourcesOur study relied on Medicare claims data for male beneficiaries age 65
+and older and aligned to Partners Healthcare within the NextGen Accountable Care
+Organization. Partners HealthCare in Boston, Massachusetts was founded by
+Brigham and Women’s Hospital and Massachusetts General Hospital. It has
+one of the largest health care networks in North America including hospitals,
+community health centers, physician practices, and post-acute care
+facilities.Data included medical and pharmacy claims data from January 2012 thru
+December 31, 2017 and merged clinical and demographic information. Comprehensive
+clinical information from each patient was generated during the course of
+patient care from multiple clinical and administrative computing systems.
+Information on BPH treatment such as pharmacy information, medical diagnoses,
+and initial visit information was captured. Computerized pharmacy records for
+102,240 5ARI prescriptions dispensed for 5,700 clinic patients were generated
+during the study period using International Classification of Diseases (ICD)
+codes. All data were de-identified.
+Study populationTwenty-three percent (n=5,700) of all patients who were diagnosed with
+BPH during the study period were prescribed 5ARIs (including finasteride and
+dutasteride) with claims that contain the following diagnosis codes: 600.0 to
+600.3, and 600.9. Patients with more than one dispensation of 5ARIs for a
+diagnosis of BPH commencing in the period January 2012 to December 2017 were
+enrolled in the study on the date their first prescription for 5ARIs was
+dispensed. Patients who received 5ARIs before July 2012 were excluded to ensure
+that all individuals had not been prescribed 5ARIs for at least six months
+before the initiation of 5ARIs treatment. Patients with a diagnosis of prostate
+cancer (185, 198.82, 233.4, 236.5, 239.5, V10.46) or bladder cancer (188, 198.1,
+223.3, 233.7, 236.7, 239.4, V10.51) at any time during the follow up were also
+excluded from analysis.
+Pharmacy-based adherenceFigure 1 demonstrates the study
+design scheme. We evaluated automated pharmacy records for the twelve months
+following the date 5ARI treatment was started. Adherence was calculated using
+proportion of days covered (PDC)13, which is supported by the International Society for
+Pharmaceutical Outcomes Research14. PDC is defined as the ratio of days that a patient
+supplied with medication to the total number of days in a year
+(PDC1yr=[1-(days without medication)/365]). For example,
+PDC1yr =0.80 means that a patient had enough medication 80% of
+the time in the first year of 5ARIs treatment. High level of adherence to
+medication in chronic disease was defined as PDC ⩾ 80% in many
+studies15–17. Thus, we categorized
+adherence to medication into binary outcomes, where patients had either a high
+level of adherence (PDC ≥ 0.80) or a low level of adherence (PDC <
+0.80). We also conducted sensitivity analyses for adherence measured up to two
+and three years from the date 5ARIs were initiated.
+Demographic and clinical variablesBaseline information was collected on the date patients were dispensed
+their first 5ARI regimen including age, race, veteran status, marital status,
+education level, smoking status, and alcohol use. Pharmacy information was also
+collected including brand name, and dosage. Comorbidity within the first year of
+follow-up was evaluated based on the diagnosis data using ICD codes. Severity
+risk factors such as hematuria and bladder stones as well as hypertension,
+diabetes, erectile dysfunction, and mental disorder were included in the
+analysis. BPH related complications were evaluated using the Thomson Medstat
+Disease Staging coding methods18. This method is a coding criterion based on ICD diagnosis
+codes and supported by the Healthcare Cost and Utilization Project as a
+classification system. Patients were categorized into uncomplicated (stage 1) or
+complicated BPH (stage 2 or more) based on ICD codes during the first year of
+evaluation.
+BPH related surgeryThe outcome of the study was 5ARI treatment failure defined by the
+occurrence of a BPH related surgery. This included surgical treatment and
+minimally invasive therapy using Current Procedural Terminology (CPT) codes
+(52601, 52612, 52614, 52620, 52640, 52647, 52648, 55801, 55821, 55831, 52850,
+52852, and 52853). We evaluated the outcome starting one year after the
+initiation of 5ARIs. The time to 5ARI treatment failure was defined as the time
+from the index date to the first BPH related surgery. All patients were followed
+until the 5ARI failure, death, loss follow up, or the end of study
+(12/31/2018).
+Statistical AnalysisUnivariate and multivariate Cox proportional hazards regression analysis
+was performed to determine the relative hazard of 5ARIs treatment failure by the
+level of adherence to 5ARIs, controlling for other factors. All analysis was
+done using STATA.
+Results
+We identified 3,107 patients for study inclusion (Figure 2). The majority of the patients who initiated
+their first 5ARI treatment during the study period were white males who were
+non-smokers and non-alcohol users with an average age of 77.5 (Table 1). 89.1% of the study cohort was treated with
+finasteride, and only 10.9% was treated with dutasteride. BPH stage was evaluated
+during the first year of the follow-up. The majority of patients (91.2%) were
+characterized with stage 1 level of BPH severity (i.e., without bladder outlet
+obstruction, hydronephrosis, renal failure, sepsis, or shock). Patients categorized
+as stage 1 were less likely to fail compared to patients categorized as stage 2 or
+more.. 8% of the patients presented with hematuria and 3.3% with bladder stones.
+23.5% of the study cohort was also diagnosed with hypertension, 9.1% with diabetes,
+3.5% with mental disorder and 3.1% with erectile dysfunction. The mean follow-up
+time was 1354 days, during which 373 (12.0%) received BPH related surgery.
+As shown in the Kaplan-Meier curve in Figure
+3, low level of adherence to 5ARIs was significantly associated with
+shorter time to BPH related surgery (log-rank test p = 0.0372). The results of
+sensitivity analyses conducted using adherence measured for two years and three
+years were similar. When adjusted for age, BPH stage, presence of hematuria, bladder
+stone, and type of 5ARIs, Multivariate Cox proportional hazard regression analysis
+revealed the hazard ratio (HR) was 1.29 (95% confidence interval [CI]: 1.04 to 1.62,
+p = 0.023) (Table 2). Moreover, we found that
+the presence of bladder stones (HR = 1.71, 95% CI: 1.02 to 2.87, p = 0.042) and
+finasteride use (HR = 1.42, 95% CI: 1.01 to 1.98, p = 0.044) were significant risk
+factors for BPH related surgery. Other factors including high BPH stage and presence
+of hematuria were related to poor outcomes however, they were not significant in the
+adjusted model.
+Discussion
+This study aimed to evaluate the impact of 5ARI drug adherence on long-term
+clinical outcomes among a cohort of patients diagnosed with BPH. Among patients
+initiating their first 5ARI regimen, we found that patients with low level of
+adherence are 27% more likely to need a BPH related surgery compared to those with
+high level of adherence. An association between adherence to 5ARI treatment and
+better clinical outcome is expected and has been reported4. However, long-term studies using
+longitudinal claims data are warranted.
+5α-reductase is an enzyme that catalyzes the conversion of
+testosterone to 5α-dihydrotestosterone (DHT), which is involved in the
+pathogenesis of prostatic hyperplasia. 5ARIs including finasteride and dutasteride
+act as competitive and specific inhibitors of 5α-reductase to prevent
+conversion of testosterone to DHT, which ultimately reduces prostate size6,19,20 to relieve
+patients of bladder outlet obstruction. Multiple studies21–23 suggest that larger prostate volumes are associated with higher
+risk of BPH progression. Clinical trials such as the Proscar Long-Term Efficacy and
+Safety Study (PLESS) and the Medical Therapy of Prostatic Symptoms (MTOPS) study
+have demonstrated that 5ARIs have the potential for long-term reduction in prostate
+volume and need for prostate surgery4,24. Nevertheless,
+other observational studies have failed to demonstrate the effectiveness of 5ARI
+therapy in treating men with BPH25,26. One possible explanation is that
+findings from clinical trials cannot be generalized to men outside the
+study’s inclusion criteria. Moreover, patients undergoing long-term treatment
+in a real-world setting may exhibit lower adherence to the prescribed course of
+treatment compared to those in a clinical trial setting27.
+Our results are consistent with those of a previous study from Cindolo et
+al4. They reported that,
+among men aged 40 years old, one year adherence to 5ARI treatment for BPH was 29%
+and discontinuation was an independent risk factor for hospitalization for BPH and
+BPH surgery (HR 1.65 and 2.80; p < 0.0001). Nonetheless, adherence and
+discontinuation are different. Some patients who failed to show improvement early in
+the treatment and discontinued may later restart the original treatment, and thus
+may have been inappropriately classified as non-adherent. Thus, discontinuation can
+only represent adherence when the level of adherence is very low28. In our study, we measured adherence by PDC
+instead of discontinuation, which is supported by the International Society for
+Pharmaceutical Outcomes Research14.
+We also found several factors that could influence the probability of
+surgical intervention. These factors included higher BPH stage, the presence of
+bladder stones, and whether or not the initiating treatment was finasteride. BPH
+stage defined by Thomson Medstat Disease Staging Criteria18 was used to measure BPH severity. The
+presence with hematuria and/or bladder stones was also included to capture
+additional severity risks18. In
+our multivariable analysis, once the presence of hematuria and/or bladder stones was
+included, the information gained from BPH stage was no longer statistically
+significant in predicting outcomes. Bladder stones are commonly associated with
+bladder outlet obstruction, chronic urinary tract infection and neurogenic
+bladder29. We demonstrated
+that the presence of bladder stones was strongly associated with poor outcomes. We
+also found that patients using finasteride were 41% more likely to require surgical
+intervention compared to dutasteride. Currently, there are two 5ARIs approved in the
+United States: finasteride and dutasteride. Dutasteride, a dual 5ARI, results in a
+significantly greater decrease in dihydrotestosterone compared to finasteride, which
+is a selective inhibitor of the type 2 isoenzyme30,31. Our findings are
+inconsistent with previous studies, which showed no overall differences in clinical
+outcomes between the two treatments14. These inconsistent results may be due to the longer follow-up
+in our study or the imbalance between regimens (only 10.9% of patients in our study
+received dutasteride while 89.1% received finasteride).
+We acknowledge that there are limitations to our analysis. Firstly, when we
+measured medication adherence with claims data, we assumed that patients consumed
+all medication as prescribed. Thus, it may be possible to overestimate the
+percentage of patients who are adherent to their medication. Secondly, there was
+selection bias since patients in our study were Medicare beneficiaries (i.e.:
+≥ 65 years of age). The results could be different among younger
+patients. Finally, although we adjusted our results using BPH stage generated by
+diagnosis information, diagnostic tests and biochemical results were missing. It
+would be useful to link prostate size or PSA levels to each individual as variations
+in BPH severity between different adherent groups are likely. Despite these
+limitations, this is one of the few studies providing insight into drug adherence
+and the impact on clinical outcome for 5ARIs treatment for BPH.
+Conclusion
+In conclusion, low levels of adherence to 5ARI treatment in patients with
+BPH are associated with higher probability of BPH related surgery and poor outcomes.
+Therefore, intervention strategies are needed to increase adherence to 5ARIs
+treatment after patients are diagnosed.

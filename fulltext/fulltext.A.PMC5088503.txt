@@ -1,0 +1,872 @@
+Fibroblasts are the predominant cell type that synthesizes and remodels the
+extracellular matrix (ECM) in both embryonic and adult organs (1) and are the principal cell type responsible for tissue and organ
+fibrosis, cutaneous scarring, atherosclerosis, systemic sclerosis, and formation of
+atheromatous plaques after blood vessel injury (2–5). Numerous studies have
+investigated the contribution of fibroblasts to the progression of carcinoma (6–9),
+but, as in the case of wound healing, the identity and embryonic origin of the
+fibroblasts that contribute to tumor stroma have not been adequately defined.
+Identifying and prospectively isolating the fibroblast lineage(s) endowed with
+fibrogenic potential in vivo is an essential step toward effectively manipulating their
+response to injury across a wide range of acute and chronic disease states.
+Here, we identify an embryonic lineage within the dorsal dermis that possesses
+many of the functional attributes commonly associated with the term
+“fibroblast.” Despite the presence of other fibroblast lineages in the
+dorsal dermis, the Engrailed-1 lineage is the primary contributor to
+connective tissue secretion and organization during embryonic development, cutaneous
+wounding, radiation fibrosis, and cancer stroma formation. By identifying and
+prospectively isolating defined embryonic lineages from skin and oral dermis, we find
+that fibrogenic properties are cell intrinsic, reflecting inherent functional diversity
+that exists in cutaneous tissues from different anatomical sites. These findings
+demonstrate that distinct fibroblast lineages represent unique cell types and take us
+one step closer to effectively modulating their fibrogenic behavior in vivo.
+Results
+Multiple lineages of fibroblasts in the dorsal skinEngrailed-1Cre
+(En1Cre) transgenic mice were crossed with
+ROSA26mTmG
+(R26mTmG) reporter mice (10) to trace the lineage of a population of
+En1-lineage–positive fibroblasts (EPFs), defined in
+vivo by the expression of green fluorescent protein (GFP), which migrates during
+embryonic development from the somites into the dorsal trunk dermis (11) (Fig.
+1A). To be sure that Engrailed-1 defines a single
+embryonic lineage and is not expressed into adulthood, we analyzed its protein
+and mRNA expression at P1 and P30 in dorsal skin and wounded skin and found
+absence of expression at these stages (figs. S1, A and B).Fibroblasts were isolated from the dorsal skin of
+En1Cre;R26mTmG
+mice using a fluorescence-activated cell sorting (FACS)–based isolation
+strategy that allowed for the exclusion of non-mesenchymal lineages (see
+Materials and Methods) via a lineage negative gate (Lin–). We
+employed this approach in lieu of a positive selection strategy to be as
+inclusive as possible and avoid preselection or enrichment of a subpopulation of
+fibroblasts expressing specific surface markers. This protocol enabled the
+isolation of uncultured EPFs (defined as
+GFP+RFP–Lin–) and
+En1-lineage–negative fibroblasts (ENFs) (defined as
+GFP–RFP+Lin–).To confirm the validity of our protocol, we performed microfluidic
+single-cell gene expression analysis of 96 gene targets (table S1) on
+FACS-isolated EPFs, ENFs, and unfractionated skin cells (as internal controls)
+from adult (P56) mice. Partitional clustering independently revealed the
+existence of three transcriptionally distinct cell clusters in dermal tissues,
+two of which were well represented among labeled cells (termed here as EPFs,
+ENFs) and one of which was not (Fig. 1B).
+Compared with the third cluster, the first two were defined by increased
+expression of “fibroblast” genes such as Pdgfra,
+Vim, P4hb, Col1a1,
+Col3a1, and Fbn1, as well as decreased
+expression of CDH1, Epcam, and
+Pecam1 (Fig. 1C).
+Population-level quantitative real-time polymerase chain reaction (qRT-PCR)
+analysis of FACS-isolated EPFs, ENFs, and unfractionated skin lysate reinforced
+these findings, demonstrating that genes associated with nonfibroblast cells
+(adipocyte, endothelial, neuronal, hematopoietic, muscle, and epidermal) were
+minimally or not expressed by EPFs and ENFs (Fig.
+1D).Microarray analysis of FACS-isolated uncultured EPFs and ENFs from adult
+(P56) mice demonstrated that EPFs and ENFs shared a high degree of
+transcriptome-wide similarity (R2 = 0.97) (Fig. 2A) and similar expression of
+fibroblast-related genes—such as vimentin, decorin, and S100A4 (Fig. 2B, left)—and remodeling genes of
+the ECM (Fig. 2B, right). However, key
+differences in transcript expression were present, including differential
+expression of HOXC10, Slit2, Foxp1, leptin receptor (Lepr), myosin light chain
+kinase (Mylk), and actin alpha 1 (Acta1), among many others (Fig. 2C).Flow cytometry revealed the existence of two separate population dynamics
+in vivo. At embryonic day 10.5 (E10.5), EPFs represented less than 1% of total
+dermal fibroblasts, which at this stage of development were dominated by ENFs
+(95.5% of dermal fibroblasts). With time, EPFs increased from 22.2% of total
+dermal fibroblasts at E16.5, to 42.9% at P1, and to 75.3% of total dermal
+fibroblasts at P30 (Fig. 2D), with similar
+percentages of EPFs/ENFs at subsequent post-natal stages (P56).EPFs and ENFs, sorted from embryonic (E16.5) and adult (P30) mice, and
+cultured in vitro, displayed similar spindle-shaped morphology characteristic of
+fibroblasts (Fig. 2E). The cells were
+highly motile, stained positive for markers classically associated with
+fibroblasts, such as fibroblast-specific protein 1 (FSP-1) and vimentin, as well
+as expressing components of the ECM, including type I collagen and fibronectin
+(Fig. 2F), and were negative for
+epithelial (keratin 5/14), neural (neurofilament NF-H), adipocytic
+(adiponectin), endothelial (CD31), and hematopoietic (CD45) markers (fig. S1C).
+Fibrogenic potential of dermal fibroblasts is lineage-restrictedNext, we performed lineage-tracing analysis using
+En1Cr;R26mTmG
+mice. Upon histologic analysis of dorsal skin from
+En1Cr;R26mTmG mice,
+we observed labeling of dermal ECM with the fluorescent protein expressed on the
+surface of the cell responsible for depositing those ECM components (Fig. 3, A to C). At E10.5, ENFs comprised the
+entirety of the developing dermis, and RFP signal labeled all cells and dermal
+ECM (Fig. 3B, top panel). At E12.5, EPFs
+were observed localizing to the papillary dermis only (Fig. 3B, second panel). Subsequently, at E16.5, EPFs
+appeared to migrate to the lower reticular dermis (Fig. 3B, third panel), complete their migration at P1, and maintain
+a presence there throughout postnatal stages of development (Fig. 3B, bottom panel, and Fig. 3C). Consequently, the majority of the
+deposited connective tissue within the underlying dermis, the stroma associated
+with dermal pegs, the stroma surrounding hair follicles, and dermal papillae
+(Fig. 3, B and C) was GFP-positive and
+hence EPF-derived.To confirm that the observed ECM fluorescence correlated with the
+deposition of ECM components, dorsal dermis from adult (P30)
+En1Cr;R26mTmG
+mice was stained for the predominant collagens (types I and III) in cutaneous
+dermis (12), which displayed an
+overlapping pattern with GFP fluorescence (Fig.
+3D, top and middle panel). In contrast, keratin 14, a marker for
+basal keratinocytes and hair follicle epithelium, displayed a nonoverlapping
+pattern with GFP fluorescence (Fig. 3D,
+bottom panel). These results indicate that, while at least two separate
+embryonic lineages of fibroblasts exist within the dorsal dermis, only EPFs
+function in vivo as effectors of connective tissue secretion and formation.Analysis of wounded and unwounded dorsal dermis in uncrossed
+R26mTmG mice demonstrated the presence of
+RFP in all connective tissue fibers within the dermis (fig. S1D) in a pattern
+identical to that of GFP in the dorsal dermis of
+En1Cre;R26mTmG mice
+(Fig. 3, C and E), ensuring that our
+findings were not a result of difference in emission intensities between
+membrane-bound GFP and RFP in connective tissue stroma. As expected, dorsal
+cutaneous wounds in
+Tie2Cre;R26mTmG
+(endothelial and hematopoietic lineages) and
+K14Cre;R26mTmG
+(epithelial lineage) mice were completely negative for GFP-labeled connective
+tissue (fig. S1E, top
+two panels). These results demonstrate that ECM deposition in the dorsal skin is
+a property unique to EPFs, with absence of any contributions from hematopoietic,
+endothelial, or epithelial cell lineages.We analyzed the dermis of
+FVB-Tg(CAG-luc,-GFP)L2G85Chco/J(L2G) mice, which express
+cytoplasmic enhanced GFP (eGFP) constitutively in all cells (13) and found that in marked contrast to
+the R26mTmG system, GFP fluorescence within the
+dorsal dermis of adult L2G mice was localized to dermal cells,
+epidermis, and hair follicle epithelium (fig. S1E, third panel), but did not label the dermal ECM to
+the degree seen in
+En1Cre;R26mTmG mice
+(Fig. 3C). Furthermore, GFP
+fluorescence highlighted individual stromal and vascular cells within scar
+tissue from 6-mm excisional wounds induced on the dorsal backs of adult
+L2G mice at 12 to 14 days after wounding but did not label
+deposited connective tissue and ECM components (fig. S1E, bottom
+panel).Given the important role of EPFs in connective tissue secretion during
+embryonic and postnatal development, we next assessed the relative contributions
+of EPFs and ENFs to scar formation after cutaneous wounding in the dorsal skin
+of adult (P30)
+En1Cre;R26mTmG. The
+majority of the deposited scar tissue was GFP-positive and hence EPF-derived
+(Fig. 3E). Moreover, collagen type I
+protein expression within the scar site displayed an overlapping pattern with
+GFP fluorescence, implicating EPFs as the primary secretors of collagen in the
+healing wound (fig.
+S1F). We repeated this analysis using a humanized model of wound healing,
+which proceeds through granulation tissue formation and re-epithelialization,
+with minimal contraction. Tissues harvested at 14 days after wounding showed
+abundant EPF-derived collagen filaments and connective tissue (fig. S1G), indicating
+that regardless of the primary mechanisms underlying wound closure, and despite
+the presence of ENFs in the healed dermis (Fig.
+3F), EPFs are responsible for the bulk of ECM deposition after injury
+of the dorsal skin in adult mice.To assess the possibility of a migratory cell lineage contributing to
+ECM deposition, including the migratory capacity of EPFs, we performed
+parabiosis between
+En1Cre;R26mTmG and
+background strain (B6) mice. After 2 months, excisional skin
+wounds were induced on the dorsum of the B6 strain mice. After
+14 days, wounds were harvested and analyzed for GFP/RFP fluorescence. We found
+only scattered donor-derived RFP+ cells in the wound site, with a
+complete absence of both RFP+ ECM and GFP+ cells (fig. S1H). The absence of
+GFP+ cells and RFP signal from wound connective tissue/ECM
+indicates that EPFs are not capable of migrating through the circulation to
+wound sites and that migratory RFP+ cells were not directly
+contributing to scar formation/connective tissue deposition. To further rule out
+a connection between the EPF lineage and a migratory/circulatory hematopoietic
+niche, we harvested bone marrow from adult
+En1Cre;R26mTmG
+mice and found a complete absence of GFP signal within the marrow (fig. S1I).Fibrosis can also occur in a slowly developing reactive process, such as
+the stromal response to radiation (14) or
+carcinoma, particularly malignant melanoma (15). B16 mouse melanoma cells were transplanted to the dorsum of
+En1Cre;R26mTmG
+mice, and after 30 days, tumors were harvested for histology. Consistent with
+previous reports (16, 17), we found multiple host-derived cells
+within the melanoma tumor, including various hematopoietic cell types, blood
+vessels, and fibroblasts surrounded by connective tissue stroma. The stroma of
+the melanoma was predominantly EPF-derived (GFP+) (Fig. 3G). To be sure that Engrailed-1 was not
+expressed in response to tumor cells, we stained tumor stroma sections for
+Cre and found no expression (fig. S1J). As a positive
+control, Cre was expressed in E11.5
+En1Cre;R26mTmG
+dorsal skin sections, as expected (fig. S1J).We next explored the contribution of EPFs versus ENFs to connective
+tissue deposition during radiation-induced fibrosis of the skin. Irradiated skin
+was harvested on day 14 and showed gross signs of radiation-induced fibrosis,
+including erythema and leathery skin. Histologic analysis revealed a significant
+fibrotic response with primarily EPF-derived ECM and an absence of ENF-derived
+ECM (fig. S1K). All
+blood vessels and hematopoietic infiltrates within the fibrotic tissue were
+RFP-positive, as expected. These data further demarcate EPFs as the primary
+lineage contributing to connective tissue deposition during embryonic
+development, postnatal wound healing, cancer stroma formation, and radiation
+fibrosis of the skin.
+Fibrogenic potential of dermal fibroblasts is cell-intrinsicTo investigate whether differences in wound repair between oral and
+cutaneous dermis (18) are a consequence
+of cell-intrinsic versus environmental properties, we analyzed the contribution
+of the embryonic neural crest to the cranial and oral dermis, using the
+Wnt1Cre transgenic mouse, which permanently
+labels early migratory neural crest populations at all axial levels (19–21). The oral dermis from
+Wnt1Cre;R26mTmG
+was harvested, and Wnt1 lineage–positive fibroblasts
+(WPFs), defined in vivo by their GFP positivity (and
+GFP+RFP–Lin– by flow
+cytometry), were present within oral dermis and exhibited a significant
+contribution to connective tissue secretion and organization, as seen by GFP
+signal that labeled the dermal ECM (Fig.
+4A).However, a population of Wnt1 lineage–negative
+fibroblasts (WNFs, defined as
+GFP–RFP+Lin– by flow
+cytometry) was also present within the oral dermis, as seen by histology and
+FACS analyses (Fig. 4, A and B).
+FACS-isolated WPFs and WNFs both exhibited spindle-shaped morphologies and were
+highly motile (Fig. 4C). These results
+indicate that, similarly to cutaneous sites, at least two separate lineages of
+fibroblasts coexist within the oral dermis (WPFs defined as
+GFP+RFP–Lin– and WNFs defined
+as GFP–RFP+Lin–), out of which
+only WPFs are the primary contributing lineage to ECM deposition in vivo.Given the role of WPFs in connective tissue secretion and organization
+of the oral dermis during postnatal development (Fig. 4A), we hypothesized that WPFs contribute significantly to
+connective tissue deposition within the oral cavity after wounding. Full
+thickness wounds in the buccal mucosa of adult (P30)
+Wnt1Cre;R26mTmG mice
+displayed a beehive pattern of collagen deposition within the dermis and a
+characteristic epidermal hyperproliferation of keratinocytes (Fig. 4D). The majority of the deposited scar
+tissue was GFP-positive and hence WPF-derived (Fig. 4D). The architecture of these oral scars differed
+significantly from the dense plugs of connective tissue seen in cutaneous dorsal
+scars (Fig. 3E). Consistent with this
+difference in scar architecture, collagen content was significantly diminished
+within oral wounds in comparison with dorsal skin wounds (Fig. 4E), as seen by decreased blue (collagen) staining with
+Maisson's trichrome.To begin investigating the intrasite and intersite diversity in
+fibroblast heterogeneity, we compared the transcriptional programs of EPFs
+isolated from dorsal and ventral dermal sites of adult (P30) mice to those of
+WPFs from cranial and oral dermal sites of adult (P30) mice, using gene
+expression microarray analysis. Unsupervised clustering using AutoSOME (22) revealed groups of coordinately
+expressed genes underlying similarities and differences among the fibroblast
+populations (Fig. 4F), with the most
+notable differences identified between EPFs and WPFs (fig. S2A). Indeed,
+although each of the four populations (dorsal, ventral, cranial, and oral
+cavity) is readily distinguishable by transcriptome-wide expression analysis
+(P < 0.05; AutoSOME clustering), EPFs and WPFs
+exhibit the highest degree of difference in global expression signatures (Fig. 4G), consistent with their separate
+somitic and neural crest origins.To directly assess whether site-specific differences in dermal
+architecture reflect cell-intrinsic properties of distinct fibroblast lineages
+(Wnt1 neural crest derived versus
+Engrailed-1 somitic derived) or are an outcome of distinct
+anatomic microenvironments, we initiated reciprocal transplantation experiments.
+Ten days after transplantation, both sites (oral cavity and dorsal back)
+revealed ectopic deposition of connective tissue that was donor-cell derived
+(GFP+). However, the EPF-derived scar tissue deposited within the
+oral cavity was significantly different from host-derived ECM, with dense and
+elongated collagen fibrils, minimal infiltrate of vasculature or hematopoietic
+cells, and exhibited classic dorsal scar phenotypes (Fig. 4H). Although similar cell numbers were transplanted in
+both experiments (1 × 105), WPFs transplanted into the dorsal
+back exhibited considerably reduced scarring in comparison with EPFs
+transplanted into the oral cavity, as seen by GFP fluorescence and collagen type
+I staining (Fig. 4H, bottom panels).
+Instead of forming a dense plug of scar tissue, as seen by EPFs transplanted
+into the oral cavity, WPFs were dispersed around hair follicles, where they
+secreted a beehive pattern of collagen deposition (Fig. 4H, bottom panels), mimicking a minimal oral cavity scar (Fig. 4, D and E). We found no significant
+difference at 10 days after transplantation, in either cell proliferation or
+cell survival parameters between EPFs transplanted into the oral cavity and WPFs
+transplanted into the dorsal dermis (n = 5) (fig. S2, B and C). These
+data indicate that WPFs and EPFs are functionally distinct populations in terms
+of their migratory and secretory programs.Cycles of growth and rest phase of hair follicles within the dorsal skin
+cause cyclic change in dermal thickness (23). To investigate whether these changes may affect the ECM
+deposition of implanted cells, we transplanted WPFs (1 × 105)
+to the dorsal back skin of mice at 4 and 7 weeks of age, representing anagen and
+telogen phases of the hair follicle cycle, respectively. We found no difference
+in collagen distribution pattern in relation to hair follicle cycle
+(n = 5) (fig. S2D). These data indicate that site-specific differences in
+dermal architecture between oral and cutaneous dermis are predominantly outcomes
+of lineage-intrinsic properties that are unaffected by new host tissue,
+regardless of anatomic location, dermal age, or hair follicle cycle.
+DTR-based ablation of EPFs reduces cutaneous scarring during wound
+healingGiven the role of EPFs as the primary lineage responsible for cutaneous
+scar deposition, we next investigated whether ablation of the lineage could lead
+to a reduction in scarring.We crossed R26tm1(HBEGF)Awai mice, which
+express simian diphtheria toxin receptor (DTR) in a Cre-dependent manner, with
+En1Cre;R26mTmG
+mice. The resulting triple-positive offspring
+(En1Cre;R26mTmG;R26tm1(HBEGF)Awai),
+expressing both GFP and DTR in EPFs only, were dorsally wounded and were treated
+with either 200-ng diphtheria toxin (DT) in phosphate-buffered saline (PBS) or
+PBS alone (control).Wound size in DT-treated mice increased from day 0 to day 3 of wounding
+(Fig. 5A), implicating EPFs as the
+predominant lineage from which contractile, scar-forming myofibroblasts are
+derived. Complete healing of DT-treated wounds required 20 days, an additional 6
+days over that of control wounds (14 days) and reported splinted excisional
+wound healing rates (24) in mice (Fig. 5B). Endpoint analyses were therefore
+conducted on fully healed DT-treated and control wounds harvested at 21 days and
+15 days after wounding, respectively.Scar size, measured as a percentage of initial wound size, was not
+significantly different in DT-treated as compared with control wounds
+(P = 0.3192) (Fig.
+5C). However, histologic analysis revealed greatly reduced GFP-labeled
+connective tissue deposition in DT-treated as compared with PBS-treated controls
+(Fig. 5D). Moreover, the overall
+pattern and density of collagen deposition differed markedly between DT-treated
+and control wounds. Maisson's trichrome staining revealed greater cellularity
+and reduced collagen density, evidenced by a higher ratio of red to blue
+staining, in treated as compared with control wounds (Fig. 5E). The change in collagen deposition did not
+influence the tensile strength of the healed wounds (Fig. 5F) or result in regeneration of adipocytes or hair
+follicles in the healed dermis (Fig. 5, G and
+H). Taken together, these data confirm an important functional role
+for EPFs both in terms of wound closure and connective tissue deposition during
+wound healing.
+DTR-based ablation of EPFs reduces melanoma growthGiven our finding that EPFs are the primary fibroblast lineage
+responsible for dermal fibrosis seen in cutaneous melanoma, we next assessed the
+effects of ablating EPFs before melanoma growth. Tumors were allowed to grow in
+DT-treated (n = 10) and control (n = 10) mice
+until euthanasia was dictated by protocol parameters for a single mouse, at
+which point all mice were killed for endpoint analyses. Tumor burden (as
+measured by total tumor weight at day 22) was significantly higher
+(P = 0.0166) in control melanomas than in DT-treated
+melanomas (Fig. 5I). Histologic analysis of
+GFP/RFP fluorescence revealed reduced deposition of EPF-derived
+(GFP+) connective tissue in DT-treated as compared with control
+melanomas (Fig. 5J). As expected,
+deposition patterns in the control-treated melanomas of
+En1Cre;R26mTmG;R26tm1(HBEGF)Awai
+mice (Fig. 5J) closely resembled those seen
+in En1Cre;R26mTmG mice
+transplanted with melanoma (Fig. 3G).
+Surface profiling and prospective isolation of EPFsHaving identified EPFs as a fibrogenic lineage in the dorsal dermis and
+established their functional importance through DTR-based ablation, we
+endeavored to prospectively isolate EPFs from the dermis of wild-type mice using
+flow cytometry methods. As before, a FACS-based fibroblast purification strategy
+using a lineage-negative gate (Lin–) was employed to isolate
+EPF and ENF populations for all experiments discussed here. Adult mice aged 8
+weeks were used.Both surface markers currently proposed for fibroblast
+isolations—including CD44, CD90 (Thy1), biglycan, CD73 (fig. S2E)—and 35
+additional surface molecules that were identified based on a whole-transcriptome
+microarray data of uncultured EPFs and ENFs (fig. S3) were expressed
+on both EPFs and ENFs, precluding them as discriminatory surface molecules. We
+employed a cell surface marker screen composed of 176 monoclonal antibodies to
+assess the presence and relative abundance of each surface molecule on EPFs and
+ENFs. FACS analysis revealed that most of the 176 surface molecules in the
+screen were either marginally expressed on both populations or were present on
+both populations to similar degrees (table S2). For example, CD13 was expressed on both EPFs
+(35.2%) and ENFs (28.7%). CD34, a transmembrane glycoprotein thought to be
+involved in the modulation of signal transduction and cell adhesion (25), was broadly expressed on EPFs (75.6%)
+and ENFs (50.5%). CD47, a surface molecule known to interact with macrophages
+and inhibit apoptosis (26), was expressed
+on a greater percentage of EPFs (65.5%) than ENFs (24.1%). Thus, although these
+molecules cannot be used to uniquely identify or substantially enrich for EPFs
+over ENFs, their presence on large fractions of EPFs indicates that they may
+hold functional importance. The commonly cited fibroblast marker Thy1 (CD90) was
+expressed broadly within both EPF and ENF populations and therefore was
+ineffective as a discriminatory lineage marker, consistent with our whole-genome
+and flow cytometry analysis (table S2).From the list of 176 surface molecules, we identified several markers
+that were highly expressed on EPFs and marginally on ENFs (CD26, LY-51, CD54,
+and CD61) (table S2).
+FACS analysis of primary noncultured EPFs and ENFs isolated from
+En1Cre;R26mTmG
+mice identified CD26 as the surface marker offering the highest-fold enrichment
+of EPFs over ENFs (nearly 15-fold) (fig. S4A) and labeled a large percentage of EPFs (94%)
+(Fig. 6A). The fold enrichment and
+purity of EPFs achieved with CD26 significantly surpassed those of the classic
+fibroblast markers previously described, such as CD73, CD90, and biglycan, which
+either did not enrich for EPFs (CD90 and biglycan) or were limited to a maximum
+enrichment of 3.5-fold (CD73) (fig. S2E). WPFs were found to express CD26 at levels similar to EPFs
+(fig. S4B).To further confirm the presence and specificity of these markers on EPFs
+in situ, we performed immunohistochemical analyses on dorsal dermis from P30
+En1Cre;R26mTmG
+mice. Consistent with FACS analyses, high CD26 immunopositivity was observed in
+regions of upper dermis between hair follicles, but not on the follicles
+themselves, and displayed an overlapping pattern with GFP but not RFP
+fluorescence (Fig. 6B). Furthermore,
+although CD26 has been reported to be a specific marker for upper dermis during
+fetal development (27), it appears that
+CD26 is also expressed in the lower reticular dermis during adult stages (Fig. 6B).To functionally corroborate that possibility,
+CD26+Lin– and
+CD26–Lin– fibroblast populations from
+uncrossed R26mTmG transgenic mice, representing EPFs
+and ENFs, respectively, were FACS-sorted and transplanted via intradermal
+injection into the dorsal backs of immunodeficient
+RAG-2–/– double-knockout mice.
+Intradermal injection induces an initial inflammatory response followed by
+fibrosis (scarring) and was therefore chosen as an in vivo assay for ECM
+deposition.Histologic analysis of grafted cells at 10 days after transplant
+revealed a dermal architecture with abundant deposition of RFP-labeled ECM in
+the CD26-positive grafts that was nearly absent in the CD26-negative grafts
+(Fig. 6C). Despite approximately equal
+numbers of total RFP+ cells, the increased and more diffuse pattern
+of RFP-labeled ECM is evident in skin transplanted with CD26-positive as
+compared with CD26-negative fibroblasts (Fig.
+6C). RFP signal was found to be significantly higher in CD26-positive
+as compared with CD26-negative grafts (Fig.
+6C). qRT-PCR analysis of RFP-positive cells FACS-sorted 10 days after
+transplant from CD26+Lin– and
+CD26–Lin– grafts revealed 5.32-fold
+greater expression of collagen type I (collagen type in cutaneous scars) and
+7.11-fold greater expression of alpha-smooth-muscle actin (a marker of
+fibroblast activation) in CD26-positive grafts than in CD26-negative grafts
+(Fig. 6D, left). At baseline, this
+difference is markedly reduced, suggesting that, although CD26+ EPFs
+and CD26– ENFs have similar expression of ECM genes, their
+ability to respond to stimuli and up-regulate the expressions of ECM and
+contractile genes is one major molecular difference between these populations
+(Fig. 6D, right). Together, these
+findings functionally corroborate CD26 as a marker for a distinct fibrogenic
+lineage in the dorsum of mice.Given the fibrogenic contributions of EPFs to melanoma progression in
+the dorsal backs of
+En1Cre;R26mTmG
+mice (Fig. 3G), we investigated the
+contribution of the CD26+Lin– versus
+CD26–Lin– fibroblasts to the stromal
+compartment of melanomas. Primary fibroblasts were sorted from the dorsal dermis
+of uncrossed R26mTmG reporter mice based on their
+membrane expression of CD26 and cotransplanted with B16 F10 mouse melanoma cells
+by intradermal injection into the dorsal skin of
+RAG-2–/– double-knockout mice.
+After 30 days, histologic analysis of the transplanted tumors revealed a dermal
+fibrotic phenotype with increased deposition of RFP-labeled ECM in melanomas
+cotransplanted with CD26+Lin– fibroblasts in
+comparison with melanomas cotransplanted with
+CD26–Lin– fibroblasts (Fig. 6E). These data functionally corroborate
+CD26 as a surface marker for a fibroblast lineage responsible for ECM deposition
+after cutaneous injury and melanoma stroma formation.
+Inhibition of CD26 reduces cutaneous scarring during wound healingCD26, also known as dipeptidyl peptidase-4 (DPP4), is a cell-surface
+serine exopeptidase that cleaves X-proline dipeptides from the N terminus of
+polypeptides (28). Given the selective
+expression of CD26 on the surface of scar-forming EPFs, we next assessed the
+effects of inhibiting CD26 on scar formation during wound healing using a small
+molecule (diprotin A), which acts as a selective allosteric inhibitor of CD26
+peptidase activity through its function as a slowly hydrolyzed substrate for
+CD26 (29).The rates of healing between treated and control wounds during the
+initial days of wound healing remained approximately equal. However, a
+significant difference in wound size of ~30% developed by day 9 after
+wounding, with larger and less healed wounds in CD26-inhibitor–treated
+cohorts in comparison with controls (Fig.
+6F). This difference persisted through the remaining days of wound
+healing. Ultimately, complete healing of CD26-inhibitor–treated wounds
+took 5 days longer (P < 0.01) than control wounds (Fig. 6F). Most important, although the rate
+of healing was decreased in inhibitor-treated versus control wounds, treated
+wounds showed significantly reduced final scar size (P <
+0.001) after wound healing had reached completion as a percentage of the
+original wound size in comparison with control wounds (Fig. 6, G and H).
+Discussion
+Fibroblast functional properties: Intrinsic or extrinsic?A critical question concerning fibroblast biology is whether their
+specific functional properties are cell-intrinsic or cell-extrinsic. Our
+reciprocal transplantation experiments showed that differences in dermal
+architecture and wound healing outcomes between oral versus dorsal dermis are
+independent of the local microenvironment and can be mimicked by
+transplantations of distinct fibroblast lineages, indicating that cell-intrinsic
+properties rather than environmental differences are the primary effecting
+mechanisms underlying intersite diversity.A recent study also lends support to this notion. Driskell et
+al. identified a distinct lineage of fibroblasts involved in
+forming the embryonic dermal architecture (27). Our data, along with that of Driskell et al.,
+begin to define fibroblast lineages that have different roles in skin
+development, homeostasis, and response to acute or chronic injury. The analysis
+of the Driskell et al. report and our data implies that
+embryonic lineages of fibroblasts represent de facto operational hierarchies
+that underlie the diversities of regenerative programs and outcomes between
+anatomic sites.Our data describing the fibroblast lineages (En1 and
+Wnt1) responsible for scar deposition after wounding of
+dorsal skin and oral mucosa also address a long-standing question: Where do the
+dermal fibroblasts that deposit scar tissue after wounding come from? In the
+internal organs, some have shown that wound fibroblasts are derived from
+circulating fibroblast-like cells (30,
+31) and that dermal architectures may
+be additionally supported by nonmesenchyme lineages (32), as in kidney fibrosis. Our data indicate that within
+cutaneous tissues, a distinct and local lineage of resident fibroblasts is
+responsible for the fibrosis seen during wound healing, with an absence of ECM
+contributions from other mesenchyme or nonmesenchyme lineages. Our data also
+indicate that local fibroblasts, not circulating cells, are responsible for the
+connective tissue seen in the fibrosis formed in response to both radiation and
+carcinoma.
+Targeting the fibroblast culprit behind cutaneous scarringOn the basis of CD26/DPP4 expression, we have prospectively isolated the
+lineage of cells that is responsible for the bulk of fibrosis, including the
+cells involved in tumor stroma. Our mouse data are consistent with reports on
+expression of CD26/DPP4 and its related serine protease FAPα (fibroblast
+activation protein-α) on stromal subsets of human cancers (33, 34). Depletions of FAPα-expressing stromal subsets from human
+cancers were recently shown to inhibit antitumor immunity and suppress tumor
+growth (34), and a similar
+anti-immunogenic mechanism could, in part, explain the CD26 depletion phenotypes
+of our tumor growth assays and slower rate of healing in wound-healing
+models.Driskell et al. (27) have recently reported CD26 to be a marker of the upper dermis
+during fetal development. Our data demonstrate that CD26 is expressed in both
+upper and lower dermis at adult stages of development (Fig. 6B). The Driskell et al. report
+initially employs Pdgfrα-GFP transgenic mice (using FACS isolation of
+Pdgfra surface expression) to verify and prospectively isolate dermal
+fibroblasts from the backskin. Yet, our flow cytometry analysis on adult dermis
+indicates that 35% and 87% of EPFs and ENFs, respectively, do not express
+Pdgfrα surface protein (fig. S4C). Therefore, a significant fraction of the dermal
+fibroblasts assessed in our study are in fact absent from the analysis of the
+Driskell et al. report.Given that CD26/DPP4 inhibitors such as sitagliptin (Merck) and
+vildagliptin (Novartis) have been approved by the FDA for the treatment for type
+2 diabetes (35), it is possible that
+blood concentrations of orally administered gliptins may be sufficient to affect
+wound healing and fibrosis in patients. If not, clinical trials to test topical
+delivery of a CD26/DPP4 inhibitor in a dermal hydrogel or other local carrier
+would be an appropriate next step toward clinical implementation.
+Materials and Methods
+MiceMice were bred and maintained at the Stanford University Research Animal
+Facility in accordance with Stanford University guidelines. All the animals were
+housed in sterile micro-insulators and given water and rodent chow ad libitum.
+En1Cre, Wnt1Cre,
+Sox9Cre,
+Tie2Cre, K5Cre,
+K14Cre,
+RAG-2–/–,
+FVB, R26tm1(HBEGF)Awai, and
+CAG-luc-eGFP L2G85 strains were obtained from Jackson
+laboratories. The ROSA26mTmG
+(R26mTmG) reporter mice, which harbor a
+double-fluorescent reporter that permanently replaces the expression of
+membrane-bound tomato red fluorescent protein (RFP) with membrane-bound GFP
+after recombination (10), were a gift
+from L. Luo (Stanford University). En1Cre transgenic
+mice were crossed with R26mTmG reporter mice (Fig. 1A).
+En1Cre;R26mTmG
+offspring were used to trace En1-lineage–positive
+fibroblasts (EPFs), defined in vivo by their GFP positivity, into the dorsal
+dermis.
+Harvesting dermal fibroblastsMice were killed, and the dorsal fur was clipped; a hair-removal product
+was then applied topically to the dorsum for 1 to 5 min, followed by rinsing of
+the shaved skin with PBS. To preserve cell viability (36), dorsal skin was harvested immediately using dissecting
+scissors by separation along fascial planes and rinsed in betadine followed by
+5x PBS washes on ice. Subcutaneous fat was then trimmed and cleaned from the
+dermis using a scalpel. Tissue was then incubated in 0.12 mg/mL Elastase (Abcam)
+in Dulbecco's modified Eagle's medium (DMEM) at 37°C for 25 min to allow
+for dermal-epidermal separation. Epidermis was then discarded, and dermis was
+mechanically diced with razor blades and dissecting scissors until samples
+reached uniform consistency. Oral mucosa was harvested using 3-mm biopsy punches
+and dissecting scissors along the buccal mucosa bilaterally and then processed
+identically to dorsal skin from this stage onward. After mechanical
+dissociation, samples were incubated in 20 mL Collagenase IV (Gibco) at a
+concentration of 4 mg/mL in DMEM [no fetal bovine serum (FBS)] on a water-bath
+shaker at 37°C for 1 hour. Samples were then passed through a 10-mL
+syringe (no needle) 5x and then through an 18.5 gauge syringe 5x, using
+“back loading” to load the syringe. Samples were placed back onto
+the shaker at 37°C for 1 hour. Enzymatic digestion was stopped by
+addition of 10% FBS DMEM, at which time the sample was centrifuged at 1250
+revolutions per minute (rpm) for 5 min at 4°C to pellet cells.
+Supernatant was removed, with care taken to first remove the top layer of
+adipocytes before the remaining supernatant. Cells were resuspended in 10% FBS
+DMEM and passed through a 100-μm filter using centrifugation. The
+filtered suspension was further centrifuged at 1250 rpm for 5 min at 4°C.
+The supernatant was removed and the pellet was resuspended in 10% FBS DMEM and
+passed through a 70-μm filter. The filtered suspension was centrifuged
+again at 1250 rpm for 5 min, supernatant was removed, and the pellet was
+resuspended in ammonium-chloride-potassium (ACK) lysing buffer for 10 min at
+room temperature to facilitate lysis of red blood cells. ACK suspension was then
+diluted with equal volume FACS buffer and passed through a 40-μm filter.
+The filtered suspension was centrifuged at 1250 rpm for 5 min at 4°C,
+supernatant was removed, and the pellet was resuspended in FACS buffer
+containing deoxyribonuclease (DNase) (10 μg/ml). The cell suspension was
+then stained with PacBlue-conjugated CD31, CD45, Tie2, Ter119, and EpCAM for 20
+min on ice and washed three times with FACS buffer and centrifuged. Cells were
+then resuspended in FACS buffer containing DNase(10 μg/ml) and
+4′,6-diamidino-2-phenylindole (DAPI) (1X). FACS sorting (FACSAria III)
+for DAPI-negative, CD31-negative, CD45-negative, Tie2-negative, Ter119-negative,
+and EpCAM-negative cells (for hematopoietic, endothelial, and epithelial cells)
+was then performed to isolate dermal fibroblasts. Positivity for GFP or RFP
+allowed for the separation of EPFs from ENFs and WPFs from WNFs.
+FACS analysis of dermal fibroblastsAll flow cytometry analysis on dermal fibroblasts described in this
+manuscript was performed on dissociated primary dermal fibroblasts after
+lineage-negative gating of hematopoietic, endothelial, and epithelial cell
+lineages, using CD31, CD45, Tie2, Ter119, and EpCAM (CD326). The following
+antibodies were used to interrogate surface marker expression on EPFs and ENFs:
+CD44, CD73, CD90.1, CD90.2, CD105, biglycan, CD9, CD26, CD29, CD207, CD184,
+CD63, CD117, CD41, CD83, CD49e, CD49d, CD71, CD98, CD157, CD19, CD16/32, CD140a,
+CD172a, CD61, Ly-51, CD23, CD115, CD200, CD47, CD51, H2-Kb, and CD183
+(BioLegend, eBioscience, Abcam). Cells were stained with a single
+anaphase-promoting complex conjugated antibody (above) during the harvest
+protocol along with PacBlue-conjugated CD31, CD45, Tie2, Ter119, and EpCAM
+antibodies. Cells were resuspended in FACS buffer and DAPI before FACS
+analysis.
+Immunostaining of cultured fibroblastsFibroblasts (FACS-isolated as described previously from
+En1Cre;R26mTmG
+mice) were plated into 8-well culture slides for 2 days (BD Biosciences) and
+then fixed in 4% paraformaldehyde at 4°C for 10 min and stained with the
+following primary antibodies: FSP-1 (Abcam), vimentin (Abcam), α-SMA
+(Abcam), type IV collagen (Abcam), type III collagen (Abcam), type I collagen
+(Abcam), fibronectin (Abcam), and Thy1.1 (Abcam). Alexa Fluor
+647–conjugated antirabbit, antigoat, or antirat antibodies (Invitrogen)
+were used as secondary and incubated for 1 hour. Fluorescent and bright-field
+images were taken with a Leica DM4000B microscope (Leica Microsystems) and
+RETIGA 2000R camera (QImaging Scientific Cameras).
+Dorsal woundingFour-week-old male
+En1Cre;R26mTmG
+and R26mTmG mice were used for cutaneous wound
+healing experiments. Both unsplinted and splinted excisional dorsal wounding was
+performed on
+En1Cre;R26mTmG and
+R26mTmG mice in accordance with
+well-established protocols. In brief, induction of anesthesia was performed
+under 2.5% isoflurane/oxygen mixture at 2 l per minute followed by maintenance
+anesthesia at 1 L per minute. Dorsal fur was clipped, hair-removal product was
+applied topically to dorsal skin for 1 to 5 min or until depilation was
+achieved, and skin was prepped with povidone-iodine and alcohol. Two 6-mm
+full-thickness circular wounds were placed through the panniculus carnosus on
+the dorsum of each animal at the same level, ~6 mm below the ears and 4
+mm lateral to the midline. Unsplinted wounds were dressed with sterile Tegaderm
+(3M) at this stage. For splinted wounds, two circular silicone 12-mm diameter
+stents (Invitrogen) were placed around the perimeter of each wound and secured
+in place with glue and 8 simple interrupted Ethilon 6-0 sutures (Ethicon).
+Dressings were changed every other day under anesthesia until full wound
+closure.
+Oral woundingFour-week-old male
+Wnt1Cre;R26mTmG
+mice were used for oral wound healing experiments. In brief, mice were
+anesthetized with isoflurane/oxygen mixture as previously described. Full
+thickness wounds were excised on both sides of the buccal mucosa using a 1.5-mm
+biopsy punch. Wounds were harvested 14 days after surgery.
+Melanoma transplantationDepilation of the dorsal backs of 5-week-old male
+En1Cre;R26mTmG
+mice was performed as described previously in the section “Dorsal
+wounding.” The B16-F10 mouse melanoma cell line (ATCC) was passaged twice
+in culture and injected inter-dermally into the dorsal skin of each mouse (5.0
+× 104 cells per injection). After 30 days, a palpable tumor
+had formed and was harvested at that stage for histology.
+Model of radiation-induced fibrosis (skin)All irradiation was performed using a Kimtron Polaris SC-500 Series II
+x-ray machine (Kimtron, Inc., Oxford, Connecticut, USA; 225 kV, 13.3 mA, 0.5 mm
+Cu, 1 Gy/min) according to Stanford University Administrative Panel on
+Laboratory Animal Care (APLAC) protocol #9981. Mice were anesthetized with a 50%
+concentration (1:1 dilution with 0.9% NaCl) of anesthetic cocktail consisting of
+ketamine hydrochloride (80 mg/kg), xylazine (2.5 mg/kg), and acepromazine (2.5
+mg/kg). The dorsal backs of mice were prepared by removing fur by clipping and
+light application of depilatory cream. Mice were placed onto customized
+individual lead jigs allowing dorsal cutaneous exposure to a circumferential
+region 2 cm in diameter. The dorsum of each mouse was irradiated with 2 doses of
+40 Gy spaced 7 days apart. Mice were killed on day 14 after the first dose when
+signs of acute skin reactions (erythema and moist desquamation) were
+present.
+Reciprocal transplantation into cutaneous and oral woundsDermal fibroblasts were harvested for FACS, as previously described,
+from the oral dermis of
+Wnt1Cre;R26mTmG
+mice and the dorsal dermis of
+En1Cre;R26mTmG
+mice at 4 weeks of age. Harvested cells were stained with DAPI, as well as
+PacBlue-conjugated CD31 (1:100), CD45 (1:200), and Ter-119 (1:200), and sorted
+for viable
+GFP+/CD31–/CD45–/Ter-119–
+populations from each anatomical site. FACS-isolated cells from the dorsal
+dermis of En1Cre;R26mTmG
+mice were transplanted into the buccal mucosa (described previously) of
+recipient RAG-2–/– double-knockout
+mice (1.0 × 105 cells per site). FACS-isolated cells from the
+oral dermis of
+Wnt1Cre;R26mTmG mice
+were transplanted into the dorsal dermis of recipient
+RAG-2–/– double-knockout mice
+(1.0 × 105 cells per site). All tissues were harvested for
+analysis at 10 days after transplantation.
+Histology and tissue analysisFor fixation, tissues were placed in 2% paraformaldehyde for 12 to 16
+hours at 4°C. Samples were prepared for embedding by soaking in 30%
+sucrose in PBS at 4°C for 24 hours. Samples were removed from the sucrose
+solution, and tissue blocks were prepared by embedding in Tissue Tek O.C.T.
+(Sakura Finetek) under dry ice to freeze the samples within the compound. Frozen
+blocks were mounted on a MicroM HM550 cryostat (MICROM International GmbH), and
+5- to 8-μm-thick sections were transferred to Superfrost/Plus adhesive
+slides (Fisher brand).
+ImmunohistochemistryFor hematoxylin and eosin staining and Masson's trichrome staining,
+standardized protocols were used with no modifications. Immunostaining on frozen
+sections was performed using the following primary antibodies: type I collagen,
+type III collagen (Abcam), type IV collagen (Abcam), keratin-14 (Abcam), CD26
+(eBioscience), CD29 (eBioscience), biglycan (Abcam), and FABP4 (Abcam). Briefly,
+slides were fixed in cold acetone (–20°C), and then blocked for 30
+min in 10% bovine serum albumin with 5% horse serum followed by incubation with
+primary antibody for 12 to 16 hours. Slides were then incubated for 1 hour with
+Alexa Fluor 647–conjugated antirabbit, antigoat, or antirat secondary
+antibodies (Invitrogen). Fluorescent and bright-field images were taken with a
+Leica DM4000B microscope (Leica Microsystems) and RETIGA 2000R camera (QImaging
+Scientific Cameras).
+TUNEL stainingTerminal deoxynucleotidyl transferase–mediated deoxyuridine
+triphosphate nick end labeling (TUNEL) staining was performed using DeadEnd
+Fluorometric TUNEL System (Promega, Madison, Wisconsin) according to the
+manufacturer's protocol. Analysis was performed by counting positive cells per
+high-power field.
+Micoarray analysisDermal fibroblasts were harvested for FACS from the oral dermis and
+cranial dermis of
+Wnt1Cre;R26mTmG mice
+and from ventral and dorsal dermis of
+En1Cre;R26mTmG
+mice, as previously described. For all microarray analysis, EPFs and ENFs where
+harvested from backskin of adult (P56) mice. Positivity for GFP or RFP allowed
+for the separation of EPFs from ENFs and WPFs from WNFs. RNA was precipitated
+via chloroform-phenol extraction. Samples were processed for cleanup and
+concentration using RNeasy MinElute cleanup kit (cat. 74204, QIAGEN). RNA yield
+was typically 0.5 to 1 μg RNA/sorted subpopulations. RNA samples from all
+sorted populations were converted to cDNA using SuperScript III first-strand
+synthesis system for RT-PCR (cat. 18080-051, Invitrogen) and hybridized to
+Affymetrix Mouse Genome 430 2.0 arrays. Microarrays were normalized by robust
+multichip average and quantile normalization in R. Cluster analysis was
+performed with AutoSOME (22), using the
+following settings for gene expression clustering: P-value
+threshold of 0.05, 100 ensemble iterations, unit variance normalization of
+arrays, median centering of genes, and sum of squares = 1 normalization for both
+genes and arrays. The following settings were used for AutoSOME fuzzy
+clustering: P-value threshold of 0.05, 500 ensemble iterations,
+unit variance normalization of arrays, and uncentered correlation for distance
+matrix construction. The fuzzy cluster network (Fig. 3F) was rendered with Cytoscape 2.8.3 (37).
+Cell surface marker screeningDermal fibroblasts were harvested as described previously from adult
+(P56) En1Cre;R26mTmG
+transgenic mice. Cells were analyzed using BD Lyoplate Mouse Cell Surface Marker
+Screening Panel (BD Biosciences, cat. 562208) containing 176 purified monoclonal
+antibodies and corresponding isotype controls. Manufacturer's staining protocol
+was followed with slight modifications. Cells isolated from the dorsal dermis of
+En1Cre;R26mTmG
+mice were plated into U-bottom 96-well plates at a density of 2.5 to 5 ×
+105 cells per well in FACS buffer. Primary antibody incubation
+was done in 100-μl volume for 30 min on ice. Next, cells were incubated
+with biotinylated secondary antibodies (goat antimouse 1:400, goat antirat
+1:400, goat antisyrian hamster 1:400, goat anti–Armenian hamster 1:800)
+in 100-μl volume for 30 min on ice. Tertiary incubation with Alexa Fluor
+647 Streptavidin (1:4000)—as well as PacBlue-conjugated CD31 (1:100),
+CD45 (1:200)—and Ter-119 (1:200), was carried out in 100-μl volume
+for 30 min on ice. Analysis was performed using flow cytometer BD LSR Fortessa
+with High Throughput Sampler.
+Intradermal transplantation of CD26+ and CD26–
+fibroblastsCD26+Lin– and
+CD26–Lin– dermal fibroblasts from the
+dorsal skin of uncrossed R26mTmG mice (at 6 to 8
+weeks of age) were harvested as previously described, and 2.0 ×
+105 cells from each of these populations were transplanted via
+intradermal injection (in 100 μl PBS) into the dorsal backs of
+RAG-2–/– double-knockout mice.
+Grafts containing FACS-sorted cells alone were harvested after 10 days and
+processed for histology.
+Intradermal cotransplantation of CD26+ and CD26–
+fibroblasts with B16 mouse melanomaCD26+Lin– and
+CD26–Lin– dermal fibroblasts from the
+dorsal skin of uncrossed R26mTmG mice (at 6 to 8
+weeks of age) were harvested, as previously described, and 2.0 ×
+105 cells from each of these populations were cotransplanted
+intradermally along with 5.0 × 104 B16-F10 mouse melanoma
+cells (ATCC) into the dorsal backs of
+RAG-2–/– double-knockout mice.
+Grafts were harvested 30 days after transplantation and processed for
+histology.
+Fluorescence quantificationRandomly chosen sections (n = 25) from both
+CD26+Lin– and
+CD26–Lin– intradermal fibroblast grafts
+and melanoma cotransplant grafts were analyzed using ImageJ software. The
+“mean gray value” (sum of the gray values of all the pixels in the
+selection divided by the number of pixels) for the entire image was calculated
+for images taken in the RFP channel only. The mean gray value measuring total
+RFP signal for a given image was then normalized to the number of RFP-positive
+cells in that image. All data are quantified by a blinded observer from digital
+photographs analyzed using ImageJ and Adobe Photoshop CS6 (Adobe Systems, San
+Jose, California).
+qRT-PCR analysis of CD26+ and CD26– fibroblasts
+transplanted into dorsal woundsCD26+ (n = 3) and CD26–
+(n = 3) grafts were harvested at 7 days after transplant
+(10 days after wounding), digested using Liberase (1 mg/mL in DMEM). Cells
+harvested from each graft were then FACS-sorted for viability (DAPI) and RFP
+positivity directly into TRIZOL. Reverse transcription was performed with 1 ug
+RNA using Taqman Reverse Transcription Reagents (Applied Biosystems), and
+qRT-PCR was carried out using Applied Biosystems Prism 7900HT Sequence Detection
+System and SYBR Green PCR Master Mix (Applied Biosystems). Expression of
+collagen type I and alpha-smooth muscle actin (alpha-SMA) mRNA was measured.
+mRNA amounts were calculated relative to the amount of β-actin mRNA in
+the same samples. For primers, see table S1.
+qRT-PCR analysis of Cre expressionFibroblasts were FACS-isolated using the fibroblast isolation
+methodology discussed previously from the dorsal skin of P1
+R26mTmG (n = 3) skin, E11.5
+En1Cre (n = 3) skin,
+R26mTmG (n = 3) skin, P1
+En1Cre;R26mTmG
+(n = 3) skin, P30
+En1Cre;R26mTmG
+(n = 3) skin, and dorsal wounds on P30
+En1Cre;R26mTmG
+(n = 3) mice. Fibroblasts were sorted directly into TRIZOL.
+Reverse transcription was performed with 1 ug RNA using Taqman Reverse
+Transcription Reagents (Applied Biosystems), and qRT-PCR was carried out using
+Applied Biosystems Prism 7900HT Sequence Detection System and SYBR Green PCR
+Master Mix (Applied Biosystems). mRNA amounts were calculated relative to the
+amount of β-actin mRNA in the same samples. For primers, see table S1.
+Microfluidic single-cell gene expression analysisGene lists defining fibroblast and nonfibroblast markers were collected
+from a literature search (38, 39). Single-cell reverse transcription and
+low cycle pre-amplification were performed as previously described (24, 40). Briefly, dermal lysate cell suspensions were sorted from
+En1Cre;R26mTmG
+transgenic mice (at 6 to 8 weeks of age) as single cells into each well of a
+96-well plate using a Becton Dickinson FACS Aria flow cytometer (Franklin Lakes,
+NJ) into 6 μl of lysis buffer and SUPERase-In RNAse inhibitor (Applied
+Biosystems, Foster City, CA) (n = 6 cell lines). Live/dead
+gating was performed based on DAPI exclusion. EPFs and ENFs were defined as
+previously described. Live, single cells were also sorted as unfractionated
+dermis. Reverse transcription and low-cycle pre-amplification were performed
+using Cells Direct (Invitrogen) with Taqman assay primer sets (Applied
+Biosystems) as per the manufacturer's specifications. Exon-spanning primers were
+used where possible to avoid amplification of genomic background. cDNA was
+loaded onto 96.96 Dynamic Arrays (Fluidigm, South San Francisco, California) for
+qPCR amplification using Universal PCR Master Mix (Applied Biosystems) with a
+uniquely compiled Taqman assay primer set (table S1), as previously
+described (41).
+Statistical analysis of single-cell dataAnalysis of single-cell data was performed, as described previously
+(42). Briefly, data from all samples
+were normalized relative to the pooled median expression for each gene and
+converted to base 2 logarithms. Absolute bounds (±5 cycle thresholds from
+the median or 32-fold increases/decreases in expression) were set, and
+nonexpressers were assigned to this floor. Clustergrams were then generated
+using hierarchical clustering (with a “complete” linkage function
+and Euclidean distance metric) to facilitate data visualization (MATLAB R2011b,
+MathWorks, Natick, Massachusetts).To detect overlapping patterns within the single-cell transcriptional
+data, k-means clustering was employed using a standard
+Euclidean distance metric. Accordingly, each cell was assigned membership to a
+specific cluster as dictated by similarities in expression profiles (minimizing
+the within-cluster sum of square distances) in MATLAB. Optimally partitioned
+clusters were then subgrouped using hierarchical clustering to facilitate
+visualization of data patterning (41,
+42). Nonparametric, two-sample
+Kolmogorov-Smirnov (K-S) tests were used to identify those genes with expression
+patterns that differed significantly between population clusters and/or groups,
+following Bonferroni correction for multiple samples using a strict cutoff of
+P < 0.05. For subgroup comparisons, the empirical
+distribution of cells from each cluster was evaluated against that of the
+remaining cells in the experiment. Ingenuity Pathway Analysis (IPA, Ingenuity
+Systems, Redwood City, California) was used to construct transcriptome networks
+based on genes that were significantly increased within clusters (including both
+direct and indirect relationships).
+Small molecule-based CD26 inhibition during wound healing using diprotin
+ABackground strain (B6) mice aged 4 to 6 weeks were
+dorsally wounded, and pullulan-collagen scaffolds seeded with either 500 ng
+diprotin A + carrier or carrier alone were loaded onto the wound site at the
+time of wounding. On days 3 and 6 after wounding, new scaffolds seeded as on day
+0 were loaded onto the wound site. Wound healing was then allowed to proceed
+unperturbed until completion. Photographic images taken every 2 or 3 days
+documented wound and scar size until healing reached completion.
+DTR-based ablation of EPFs (GFP+) during cutaneous
+woundingEn1Cre;R26mTmG;R26tm1(HBEGF)Awai
+mice were dorsally wounded (splinted 6 mm excisional) and pullulan-collagen
+dermal hydrogels seeded with either 200 ng DT in PBS or PBS alone (control) were
+transplanted onto the wound sites at the time of wounding (day 0). On days 3 and
+6 after wounding, new hydrogels seeded as on day 0 were transplanted onto the
+wound sites. Photographic images taken every 2 days documented wound and scar
+size until healing reached completion, at which point wounds were harvested for
+histologic analysis of GFP/RFP fluorescence and connective tissue deposition by
+Maisson's trichrome.
+Quantification of scar sizeGross scar size is determined by quantifying the area of the scar
+relative to the inner ring of the silicone splint on the day all wounds have
+completely healed. Scar size is represented as a percentage of the original
+wound at baseline (day 0). All data are quantified by a blinded observer from
+digital photographs analyzed using Adobe Photoshop CS6 (Adobe Systems, San Jose,
+California).
+Quantification of the rate of wound healingRate of wound healing is determined by quantifying the area of the wound
+relative to the inner ring of the silicone splint at baseline (day 0), 3 days
+after each application of hydrogel, and every 2 days. Wound size is then
+calculated as a percent of the original wound at baseline. All data are
+quantified by a blinded observer from digital photographs analyzed using Adobe
+Photoshop CS6 (Adobe Systems).
+Tensile strength testingTensile strength tests for fully healed wounds on
+En1Cre;R26mTmG;R26tm1(HBEGF)Awai
+mice treated with or without DT via pullulan-collagen hydrogel on days 0, 3, and
+6 was performed on day 22 and day 16, respectively. Tests were performed with a
+microtester (model 5848, Instron, Norwood, Massachusetts) equipped with a 100 N
+load cell. The tissue specimens were attached to custom grips with double-sided
+tape, giving a final gauge length of 10 mm. The region between the grips (gauge
+region) was stretched until a break in the skin was detected by a decrease in
+stress with increasing strain. Analysis was performed as previously described
+(43). True strain was calculated as
+the change in length divided by the gauge length, and true stress was calculated
+as the force divided by the original cross-sectional area. The tensile strength
+was determined as the greatest true stress achieved. The modulus was determined
+via least squares regression as the slope of the linear region of the true
+stress-true strain curve (R2 ≥ 0.99).
+DTR-based ablation of EPFs (GFP+) before melanoma
+transplantationEn1Cre;R26mTmG;R26tm1(HBEGF)Awai
+mice were injected (4x) intradermally with either 100 ng DT in 25 ul PBS
+(n = 7) or 25 ul PBS alone (n = 7) in four
+evenly spaced locations along the circumference, 6 mm in diameter. Twenty-four
+hours later, 5.0 × 105 B16 mouse melanoma cells were
+transplanted intradermally into the middle of the marked circle on the dorsum of
+these mice. Tumors were allowed to grow in DT-treated (n = 7)
+and control mice (n = 7) until killing was dictated by protocol
+parameters (tumor size >2 cm) for one mouse, at which point all mice were
+killed and tumors were harvested for analysis.
+Supplementary Material
+Supplement`
